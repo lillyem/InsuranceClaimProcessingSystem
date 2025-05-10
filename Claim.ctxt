@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Claim
+comment1.params=claimDate\ claimValue\ claimOwnerInitials
+comment1.target=Claim(java.lang.String,\ double,\ java.lang.String)
+comment2.params=claimDate
+comment2.target=java.time.LocalDate\ parseDate(java.lang.String)
+comment3.params=
+comment3.target=int\ incrementClaimCounter()
+comment4.params=
+comment4.target=java.lang.String\ getClaimNo()
+comment5.params=
+comment5.target=java.time.LocalDate\ getClaimDate()
+comment6.params=
+comment6.target=double\ getClaimValue()
+comment7.params=disbursed
+comment7.target=void\ disburse(boolean)
+comment8.params=note
+comment8.target=void\ setClaimNote(java.lang.String)
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=10

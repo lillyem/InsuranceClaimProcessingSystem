@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Mainframe
+comment1.params=
+comment1.target=Mainframe()
+comment2.params=fullName\ DOB
+comment2.target=void\ addClient(java.lang.String,\ java.lang.String)
+comment3.params=clientIndex\ claimDate\ claimValue
+comment3.target=void\ addClaim(int,\ java.lang.String,\ double)
+comment4.params=claimDate
+comment4.target=boolean\ validateDayRange(java.time.LocalDate)
+comment5.params=
+comment5.target=void\ processClaims()
+comment6.params=
+comment6.target=java.lang.String\ getReports()
+comment7.params=dateString
+comment7.target=java.time.LocalDate\ convertDate(java.lang.String)
+numComments=8

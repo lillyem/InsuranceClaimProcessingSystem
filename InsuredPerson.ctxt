@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=InsuredPerson
+comment1.params=fullName\ DOB
+comment1.target=InsuredPerson(java.lang.String,\ java.lang.String)
+comment10.params=value
+comment10.target=void\ recordDisbursements(double)
+comment11.params=
+comment11.target=java.lang.String\ toString()
+comment2.params=DOB
+comment2.target=java.time.LocalDate\ parseDate(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getInitials()
+comment4.params=
+comment4.target=java.lang.String\ getFullName()
+comment5.params=
+comment5.target=java.time.LocalDate\ getDOB()
+comment6.params=
+comment6.target=java.util.ArrayList\ getClaims()
+comment7.params=claimDate\ claimValue
+comment7.target=void\ addClaim(java.lang.String,\ double)
+comment8.params=
+comment8.target=int\ getAge()
+comment9.params=
+comment9.target=double\ getDisbursements()
+numComments=12
